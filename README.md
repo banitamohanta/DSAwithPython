@@ -7,12 +7,14 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -49,6 +51,7 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +60,16 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
