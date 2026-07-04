@@ -59,6 +59,7 @@ https://github.com/banita01/DSAwithPython
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -85,4 +86,12 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
