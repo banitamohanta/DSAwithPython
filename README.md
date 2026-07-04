@@ -6,6 +6,7 @@ https://github.com/banita01/DSAwithPython
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -58,6 +59,7 @@ https://github.com/banita01/DSAwithPython
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -79,4 +81,8 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/banitamohanta/DSAwithPython/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
