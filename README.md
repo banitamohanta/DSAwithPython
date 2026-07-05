@@ -9,6 +9,7 @@ https://github.com/banita01/DSAwithPython
 | [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
@@ -38,6 +39,7 @@ https://github.com/banita01/DSAwithPython
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -61,6 +63,7 @@ https://github.com/banita01/DSAwithPython
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
+| [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
