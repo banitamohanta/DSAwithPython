@@ -13,12 +13,14 @@ https://github.com/banita01/DSAwithPython
 | [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -31,6 +33,7 @@ https://github.com/banita01/DSAwithPython
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/banitamohanta/DSAwithPython/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -48,6 +51,7 @@ https://github.com/banita01/DSAwithPython
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/banitamohanta/DSAwithPython/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/banitamohanta/DSAwithPython/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -75,6 +79,7 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
