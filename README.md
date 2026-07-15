@@ -72,6 +72,7 @@ https://github.com/banita01/DSAwithPython
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/banitamohanta/DSAwithPython/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/banitamohanta/DSAwithPython/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -134,4 +135,5 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/banitamohanta/DSAwithPython/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/banitamohanta/DSAwithPython/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
