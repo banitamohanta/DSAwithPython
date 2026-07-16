@@ -12,6 +12,7 @@ https://github.com/banita01/DSAwithPython
 | [1288-remove-covered-intervals](https://github.com/banitamohanta/DSAwithPython/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/banitamohanta/DSAwithPython/tree/master/1331-rank-transform-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/banitamohanta/DSAwithPython/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/banitamohanta/DSAwithPython/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -127,6 +128,7 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/banitamohanta/DSAwithPython/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
