@@ -140,6 +140,7 @@ https://github.com/banita01/DSAwithPython
 | [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banitamohanta/DSAwithPython/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/banitamohanta/DSAwithPython/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +150,7 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/banitamohanta/DSAwithPython/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
