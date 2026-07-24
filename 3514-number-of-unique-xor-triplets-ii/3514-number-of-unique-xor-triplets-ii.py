@@ -2,7 +2,7 @@ class Solution(object):
     def uniqueXorTriplets(self, nums):
         MAXX = 2048
 
-        vals = list(set(nums))  # duplicates don't matter
+        vals = list(set(nums))  
 
         pair = [False] * MAXX
         for a in vals:
