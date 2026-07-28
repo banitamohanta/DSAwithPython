@@ -9,6 +9,7 @@ https://github.com/banita01/DSAwithPython
 | [0053-maximum-subarray](https://github.com/banitamohanta/DSAwithPython/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/banitamohanta/DSAwithPython/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/banitamohanta/DSAwithPython/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/banitamohanta/DSAwithPython/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/banitamohanta/DSAwithPython/tree/master/1301-number-of-paths-with-max-score) |
@@ -81,6 +82,7 @@ https://github.com/banita01/DSAwithPython
 | ------- |
 | [0066-plus-one](https://github.com/banitamohanta/DSAwithPython/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/banitamohanta/DSAwithPython/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banitamohanta/DSAwithPython/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/banitamohanta/DSAwithPython/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banitamohanta/DSAwithPython/tree/master/3312-sorted-gcd-pair-queries) |
@@ -121,6 +123,7 @@ https://github.com/banita01/DSAwithPython
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/banitamohanta/DSAwithPython/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/banitamohanta/DSAwithPython/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/banitamohanta/DSAwithPython/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3517-smallest-palindromic-rearrangement-i) |
