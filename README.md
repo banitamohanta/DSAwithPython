@@ -111,6 +111,7 @@ https://github.com/banita01/DSAwithPython
 | ------- |
 | [0268-missing-number](https://github.com/banitamohanta/DSAwithPython/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/banitamohanta/DSAwithPython/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banitamohanta/DSAwithPython/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -127,6 +128,7 @@ https://github.com/banita01/DSAwithPython
 | [0628-maximum-product-of-three-numbers](https://github.com/banitamohanta/DSAwithPython/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/banitamohanta/DSAwithPython/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/banitamohanta/DSAwithPython/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/banitamohanta/DSAwithPython/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,12 +154,14 @@ https://github.com/banita01/DSAwithPython
 | [0005-longest-palindromic-substring](https://github.com/banitamohanta/DSAwithPython/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banitamohanta/DSAwithPython/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/banitamohanta/DSAwithPython/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banitamohanta/DSAwithPython/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banitamohanta/DSAwithPython/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -185,6 +189,7 @@ https://github.com/banita01/DSAwithPython
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banitamohanta/DSAwithPython/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banitamohanta/DSAwithPython/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
